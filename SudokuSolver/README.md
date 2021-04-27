@@ -7,4 +7,16 @@ Sudoku Solver using Backtracking
 - Install PyGame by pip
 - Execute main.py
 
+![](https://github.com/AdityaGautam05/LTTS-Python-255955-MiniProject/blob/inital_commit/SudokuSolver/images/1.png)
+
+![](https://github.com/AdityaGautam05/LTTS-Python-255955-MiniProject/blob/inital_commit/SudokuSolver/images/2.png)
+
+![](https://github.com/AdityaGautam05/LTTS-Python-255955-MiniProject/blob/inital_commit/SudokuSolver/images/3.png)
+
+![](https://github.com/AdityaGautam05/LTTS-Python-255955-MiniProject/blob/inital_commit/SudokuSolver/images/4.png)
+
+![](https://github.com/AdityaGautam05/LTTS-Python-255955-MiniProject/blob/inital_commit/SudokuSolver/images/5.png)
+
+![](https://github.com/AdityaGautam05/LTTS-Python-255955-MiniProject/blob/inital_commit/SudokuSolver/images/6.png)
+
 
