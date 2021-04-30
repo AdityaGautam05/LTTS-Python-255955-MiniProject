@@ -5,6 +5,8 @@ Python Mini Project repository for LTTS.
 
 Sudoku Solver using Backtracking
 
+[![Python application](https://github.com/AdityaGautam05/LTTS-Python-255955-MiniProject/actions/workflows/python-app.yml/badge.svg)](https://github.com/AdityaGautam05/LTTS-Python-255955-MiniProject/actions/workflows/python-app.yml)
+
 # Steps to execute
 
 - Install PyGame by pip
